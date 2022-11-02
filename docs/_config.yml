@@ -8,6 +8,7 @@ github_username: '...'
 author: ''
 
 markdown: kramdown
+theme: Architect
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
