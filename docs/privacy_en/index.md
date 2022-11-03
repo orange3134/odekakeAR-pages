@@ -1,32 +1,36 @@
 ﻿# privacy policy
 We recognize that it is very important to properly protect the personal information we obtain, and we comply with the Act on the Protection of Personal Information and other relevant laws and regulations, and the following privacy policy (hereinafter referred to as "this policy") ) and handle user information, including personal information.
 
-## 1. Collected user information and collection method
-Odekake AR (hereinafter referred to as "this app") uses the TrueDepth API and obtains information from the TrueDepth API only when the user gives permission.
+## TrueDepth API
+Our app make use of automatically collected information using the device camera and the TrueDepth API provided by Apple. 
+The only use of this information is to track the user’s head and face.
+This allows the user to control the avatar's facial expressions by moving the face.
+None of the information collected by the TrueDepth API ever leaves the user's device nor is it persistently stored on the device.
 
-Information includes:
-- Surrounding environment data
-- facial expression data
+## Information Collection and Use
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.The app does use third-party services that may collect information used to identify you.
 
-For the VRoid Hub linkage function, please refer to the privacy policy of the relevant service.
+Link to the privacy policy of third-party service providers used by the app
+- [Unity](https://unity.com/legal/privacy-policy)
+- [VRoid Hub](https://policies.pixiv.net/#privacy)
 
-## 2. Purpose of use of user information
-The specific purpose of use of the information obtained by this application from the TrueDepth API is as follows.
-- To display avatars composited with the surrounding environment.
-- To control avatar movement.
-- To manipulate avatar facial expressions.
+## Log Data
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-## 3. Disclosure to Third Parties
-This app will not disclose the information obtained from the TrueDepth API to third parties.
+## Cookies
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.This Service does not use these “cookies” explicitly.
 
-## 4. How to request suspension of use
-The user can immediately stop the acquisition of information by the TrueDepth API by making a prescribed setting on the device.
+## Security
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-## 5. Save information
-This app does not store the information obtained with the TrueDepth API for a long time.
-If you stop using our app, your information will be destroyed.
+## Links to Other Sites
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-## The information desk
-If you have any comments, questions, or other inquiries regarding the handling of user information, please contact the following contact point.
-Person in charge: Orange
-Email: mikan3134@gmail.com
+## Changes to This Privacy Policy
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.This policy is effective as of 2022-11-04
+
+## Children’s Privacy
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+
+## Contact Us
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at mikan3134@gmail.com
