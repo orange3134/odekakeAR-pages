@@ -2,10 +2,11 @@
 We recognize that it is very important to properly protect the personal information we obtain, and we comply with the Act on the Protection of Personal Information and other relevant laws and regulations, and the following privacy policy (hereinafter referred to as "this policy") ) and handle user information, including personal information.
 
 ## TrueDepth API
-Our app make use of automatically collected information using the device camera and the TrueDepth API provided by Apple. 
-The only use of this information is to track the user’s head and face.
+Our app make use of collected data using the device camera and the TrueDepth API provided by Apple. 
+The only use for this data is to reflect the user's facial expressions on the avatar's face.
 This allows the user to control the avatar's facial expressions by moving the face.
-None of the information collected by the TrueDepth API ever leaves the user's device nor is it persistently stored on the device.
+This data is immediately discarded after it is reflected in the avatar's expression.
+In our app, none of the data collected by the TrueDepth API leaves the user's device and is not permanently stored on the device.
 
 ## Information Collection and Use
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.The app does use third-party services that may collect information used to identify you.
